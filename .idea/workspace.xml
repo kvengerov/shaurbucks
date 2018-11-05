@@ -2,153 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="41d369cb-597b-4ba9-b63e-31708666034c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shaurbucks.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/angular.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/e2e/protractor.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/e2e/src/app.e2e-spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/e2e/src/app.po.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/e2e/tsconfig.e2e.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/proxy.conf.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/app/analytics-page/analytics-page.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/app/analytics-page/analytics-page.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/app/analytics-page/analytics-page.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/app/analytics-page/analytics-page.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/app/app-routing.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/app/app.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/app/app.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/app/app.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/app/categories-page/categories-form/categories-form.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/app/categories-page/categories-form/categories-form.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/app/categories-page/categories-form/categories-form.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/app/categories-page/categories-form/categories-form.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/app/categories-page/categories-form/positions-form/positions-form.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/app/categories-page/categories-form/positions-form/positions-form.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/app/categories-page/categories-form/positions-form/positions-form.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/app/categories-page/categories-form/positions-form/positions-form.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/app/categories-page/categories-page.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/app/categories-page/categories-page.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/app/categories-page/categories-page.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/app/categories-page/categories-page.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/app/history-page/history-filter/history-filter.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/app/history-page/history-filter/history-filter.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/app/history-page/history-filter/history-filter.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/app/history-page/history-filter/history-filter.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/app/history-page/history-list/history-list.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/app/history-page/history-list/history-list.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/app/history-page/history-list/history-list.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/app/history-page/history-list/history-list.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/app/history-page/history-page.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/app/history-page/history-page.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/app/history-page/history-page.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/app/history-page/history-page.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/app/login-page/login-page.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/app/login-page/login-page.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/app/login-page/login-page.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/app/login-page/login-page.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/app/order-page/order-categories/order-categories.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/app/order-page/order-categories/order-categories.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/app/order-page/order-categories/order-categories.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/app/order-page/order-categories/order-categories.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/app/order-page/order-page.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/app/order-page/order-page.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/app/order-page/order-page.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/app/order-page/order-page.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/app/order-page/order-positions/order-positions.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/app/order-page/order-positions/order-positions.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/app/order-page/order-positions/order-positions.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/app/order-page/order-positions/order-positions.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/app/overview-page/overview-page.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/app/overview-page/overview-page.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/app/overview-page/overview-page.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/app/overview-page/overview-page.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/app/register-page/register-page.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/app/register-page/register-page.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/app/register-page/register-page.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/app/register-page/register-page.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/app/services/order.service.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/app/services/order.service.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/app/shared/components/loader/loader.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/app/shared/components/loader/loader.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/app/shared/components/loader/loader.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/app/shared/components/loader/loader.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/app/shared/guards/auth.guard.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/app/shared/interceptors/token.interceptor.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/app/shared/interfaces.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/app/shared/layouts/auth-layout/auth-layout.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/app/shared/layouts/auth-layout/auth-layout.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/app/shared/layouts/auth-layout/auth-layout.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/app/shared/layouts/auth-layout/auth-layout.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/app/shared/layouts/site-layout/site-layout.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/app/shared/layouts/site-layout/site-layout.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/app/shared/layouts/site-layout/site-layout.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/app/shared/layouts/site-layout/site-layout.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/app/shared/services/analytics.service.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/app/shared/services/auth.service.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/app/shared/services/categories.service.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/app/shared/services/material.service.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/app/shared/services/orders.service.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/app/shared/services/position.service.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/assets/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/browserslist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/environments/environment.prod.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/environments/environment.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/karma.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/main.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/polyfills.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/test.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/theme/styles.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/theme/theme-master/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/theme/theme-master/analytics.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/theme/theme-master/cake.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/theme/theme-master/scripts/materialize.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/theme/theme-master/scripts/scripts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/theme/theme-master/styles/materialize.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/tsconfig.app.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/tsconfig.spec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/tslint.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/tslint.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/config.prod.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/controllers/analytic.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/controllers/auth.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/controllers/category.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/controllers/order.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/controllers/position.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/middleware/passport.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/middleware/upload.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/Category.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/Order.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/Position.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/User.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routes/analytic.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routes/auth.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routes/category.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routes/order.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routes/position.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uploads/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uploads/15102018-013045_289-cat.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uploads/17102018-080655_799-coffee.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uploads/17102018-081142_777-cake.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/error.handler.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -236,7 +90,7 @@
           <entry key="jpeg" value="1" />
           <entry key="jpg" value="2" />
           <entry key="js" value="45" />
-          <entry key="json" value="11" />
+          <entry key="json" value="12" />
           <entry key="ts" value="66" />
         </counts>
       </usages-collector>
@@ -245,7 +99,7 @@
           <entry key="CSS" value="1" />
           <entry key="HTML" value="37" />
           <entry key="Image" value="3" />
-          <entry key="JSON" value="11" />
+          <entry key="JSON" value="12" />
           <entry key="JavaScript" value="45" />
           <entry key="PLAIN_TEXT" value="1" />
           <entry key="TypeScript" value="66" />
@@ -261,7 +115,7 @@
           <entry key="gitignore" value="60" />
           <entry key="html" value="3722" />
           <entry key="js" value="2538" />
-          <entry key="json" value="175" />
+          <entry key="json" value="176" />
           <entry key="ts" value="8204" />
           <entry key="txt" value="79" />
         </counts>
@@ -269,7 +123,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="3717" />
-          <entry key="JSON" value="175" />
+          <entry key="JSON" value="176" />
           <entry key="JavaScript" value="2543" />
           <entry key="PLAIN_TEXT" value="139" />
           <entry key="TypeScript" value="8204" />
@@ -279,11 +133,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/client/package.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="465">
               <caret line="31" column="22" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="75" selection-start-line="15" selection-start-column="75" selection-end-line="15" selection-end-column="75" />
             </state>
           </provider>
         </entry>
@@ -359,8 +222,8 @@
         <option value="$PROJECT_DIR$/config/config.prod.js" />
         <option value="$PROJECT_DIR$/config/config.js" />
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/client/package.json" />
+        <option value="$PROJECT_DIR$/package.json" />
       </list>
     </option>
   </component>
@@ -453,12 +316,12 @@
       <workItem from="1539758126707" duration="2328000" />
       <workItem from="1540478504595" duration="6058000" />
       <workItem from="1541144875769" duration="18587000" />
-      <workItem from="1541403965821" duration="18744000" />
+      <workItem from="1541403965821" duration="19110000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="77828000" />
+    <option name="totallyTimeSpent" value="78194000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="747" y="97" width="1127" height="885" extended-state="0" />
@@ -477,7 +340,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.23076923" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.443884" />
       <window_info anchor="bottom" id="TypeScript" order="11" weight="0.32912987" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -864,17 +727,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/client/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="465">
           <caret line="31" column="22" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="75" selection-start-line="15" selection-start-column="75" selection-end-line="15" selection-end-column="75" />
         </state>
       </provider>
     </entry>
