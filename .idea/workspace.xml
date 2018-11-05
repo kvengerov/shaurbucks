@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="41d369cb-597b-4ba9-b63e-31708666034c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -115,7 +116,7 @@
           <entry key="gitignore" value="60" />
           <entry key="html" value="3722" />
           <entry key="js" value="2538" />
-          <entry key="json" value="176" />
+          <entry key="json" value="178" />
           <entry key="ts" value="8204" />
           <entry key="txt" value="79" />
         </counts>
@@ -123,7 +124,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="3717" />
-          <entry key="JSON" value="176" />
+          <entry key="JSON" value="178" />
           <entry key="JavaScript" value="2543" />
           <entry key="PLAIN_TEXT" value="139" />
           <entry key="TypeScript" value="8204" />
@@ -133,20 +134,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/client/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="31" column="22" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
+            <state relative-caret-position="275">
+              <caret line="32" column="22" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="75" selection-start-line="15" selection-start-column="75" selection-end-line="15" selection-end-column="75" />
+            <state relative-caret-position="330">
+              <caret line="22" column="34" lean-forward="true" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -222,8 +223,8 @@
         <option value="$PROJECT_DIR$/config/config.prod.js" />
         <option value="$PROJECT_DIR$/config/config.js" />
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/client/package.json" />
         <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/client/package.json" />
       </list>
     </option>
   </component>
@@ -263,6 +264,11 @@
             <path>
               <item name="shaurbucks" type="b2602c69:ProjectViewProjectNode" />
               <item name="shaurbucks" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shaurbucks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shaurbucks" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -316,12 +322,12 @@
       <workItem from="1539758126707" duration="2328000" />
       <workItem from="1540478504595" duration="6058000" />
       <workItem from="1541144875769" duration="18587000" />
-      <workItem from="1541403965821" duration="19110000" />
+      <workItem from="1541403965821" duration="19376000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="78194000" />
+    <option name="totallyTimeSpent" value="78460000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="747" y="97" width="1127" height="885" extended-state="0" />
@@ -727,17 +733,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/client/package.json">
+    <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" column="22" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
+        <state relative-caret-position="330">
+          <caret line="22" column="34" lean-forward="true" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
+    <entry file="file://$PROJECT_DIR$/client/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="75" selection-start-line="15" selection-start-column="75" selection-end-line="15" selection-end-column="75" />
+        <state relative-caret-position="275">
+          <caret line="32" column="22" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="22" />
         </state>
       </provider>
     </entry>
