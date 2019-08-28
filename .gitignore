@@ -3,3 +3,4 @@ config/config.dev.js
 client/node_modules
 client/etc
 .idea
+package-lock.json
